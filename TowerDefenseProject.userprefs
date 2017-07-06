@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{97E96241-0E74-B23D-855A-A4CC5710FC47}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EnemySpawner.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CameraController.cs" Line="7" Column="25" />
+      <File FileName="Assets/Scripts/WayPoints.cs" Line="9" Column="19" />
+      <File FileName="Assets/Scripts/Enemy1.cs" Line="28" Column="6" />
+      <File FileName="Assets/Scripts/Wave.cs" Line="8" Column="20" />
+      <File FileName="Assets/Scripts/EnemySpawner.cs" Line="7" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TowerDefenseProject PreferredExecutionTarget="Unity.Editor" />
+</Properties>
